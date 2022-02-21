@@ -1,0 +1,2 @@
+cd Debug
+TDefense.exe
